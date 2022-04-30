@@ -1,0 +1,12 @@
+{
+
+  "fullName" : "DK",
+  "address" : "Morena",
+  "isActive":true,
+  "phoneNo": ["98987998797" ,"98796746989"],
+  "batch" :
+ 			 {
+				"batchName" : "Spring and Hibernate Bootcamp",
+				"trainer" :"Abhilash" 
+ 				 }
+}
